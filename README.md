@@ -1,62 +1,60 @@
 # 🖧 NetPractice — 42 School
 
-**NetPractice** è un progetto del cursus **42** pensato per introdurre i concetti fondamentali del **networking**.  
-L’obiettivo è comprendere come funziona una rete IP configurando correttamente indirizzi, subnet e rotte tra dispositivi diversi.
+**NetPractice** is a project in the **42** curriculum designed to introduce the fundamental concepts of **networking**.
+The goal is to understand how an IP network functions by correctly configuring addresses, subnets, and routes between different devices.
 
 ---
 
-## 📘 Descrizione
+## 📘 Description
 
-Il progetto consiste in una serie di **esercizi interattivi** svolti tramite un’interfaccia web fornita da 42.  
-Ogni livello presenta una rete da analizzare e configurare: lo studente deve assegnare correttamente gli **indirizzi IP**, **maschere di sottorete** e **gateway** per garantire la comunicazione tra tutti i nodi.
+The project consists of a series of **interactive exercises** performed via a web interface provided by 42.
+Each level presents a network to analyze and configure: the student must correctly assign **IP addresses**, **subnet masks**, and **gateways** to ensure communication between all nodes.
 
-Non è richiesto scrivere codice — l’attenzione è sulla **logica di rete** e sulla comprensione dei **fondamenti del protocollo TCP/IP**.
-
----
-
-## 🎯 Obiettivi del progetto
-
-- Capire il funzionamento di **indirizzi IP** e **maschere di rete (subnet mask)**  
-- Imparare a calcolare e configurare subnet e range validi  
-- Comprendere il concetto di **gateway** e **routing**  
-- Verificare la connettività tra dispositivi in una rete  
-- Applicare le regole di base del **network design**
+No coding is required — the focus is entirely on **network logic** and understanding the **foundations of the TCP/IP protocol**.
 
 ---
 
-## 🧠 Concetti chiave
+## 🎯 Project Goals
 
-- IP addressing (IPv4)  
-- Subnetting  
-- Routing statico  
-- Gateway e interfacce di rete  
-- Comunicazione tra host, switch e router  
-
----
-
-## 🧩 Struttura del progetto
-
-Il progetto è composto da 10 livelli (esercizi) progressivi:  
-ogni livello introduce una nuova difficoltà o concetto, fino a reti più complesse con più router e subnet.
+- Understand the functioning of **IP addresses** and **Subnet Masks**.
+- Learn to calculate and configure valid subnets and IP ranges.
+- Understand the concept of **gateways** and **routing**.
+- Verify connectivity between devices in a network.
+- Apply basic rules of **network design**.
 
 ---
 
-## 🏁 Risultato finale
+## 🧠 Key Concepts
 
-Alla fine del progetto, si è in grado di:
-- Configurare correttamente una rete IP semplice o complessa  
-- Analizzare problemi di connettività e identificarne le cause  
-- Comprendere come funziona la comunicazione tra dispositivi su Internet  
-
----
-
-## 📄 Licenza
-
-Questo progetto è distribuito sotto la licenza **MIT**.  
-Consulta il file [LICENSE](./LICENSE) per ulteriori dettagli.
+* **IPv4 Addressing**
+* **Subnetting / CIDR**
+* **Static Routing**
+* **Gateways & Network Interfaces**
+* **Communication flow** between Hosts, Switches, and Routers
 
 ---
 
-### ⭐️ Se ti è stato utile, lascia una **stella** su GitHub!
+## 🧩 Project Structure
+
+The project is composed of **10 progressive levels** (exercises):
+Each level introduces a new difficulty or concept, evolving into complex networks with multiple routers and distinct subnets.
+
+---
+
+## 🏁 Final Outcome
+
+By the end of this project, you will be able to:
+* Correctly configure simple or complex IP networks.
+* Analyze connectivity issues and identify their root causes.
+* Understand how devices communicate across the Internet.
+
+---
+
+## 📄 License
+
+This project is distributed under the **MIT** License.
+See the [LICENSE](./LICENSE) file for more details.
+
+---
+
 > “Understanding networks is understanding how everything connects.” 🌐
-
